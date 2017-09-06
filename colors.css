@@ -1,0 +1,32 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+
+.box {
+  min-height: 100px;
+  width: 100%;
+}
+.yellow {
+  background-color: #FEF140;
+  min-height: 150px;
+  width: 50%;
+}
+.light_red {
+  background-color: #ED5876;
+  min-height: 150px;
+  width: 35%;
+}
+.orange {
+  background-color: #F65533;
+  min-height: 150px;
+  width: 15%;
+}
+.white {
+  background-color: #FAFAF8;
+  min-height: 600px;
+  width: 50%;
+}
+.black {
+  background-color: #3A3436;
+  min-height: 600px;
+  width: 35%;
+}
