@@ -1,0 +1,39 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+
+
+.box {
+  display: inline-table;
+  min-height: 100vh;
+  width: 10vh;
+}
+
+
+.light_green {
+  background-color: #00A144;
+}
+.green {
+  background-color: #018877;
+}
+
+.yellow {
+  background-color: #006FAE;
+}
+.a {
+  background-color: #335AB7;
+}
+.b {
+  background-color: #734590;
+}
+.c {
+  background-color: #B83954;
+}
+.d {
+  background-color: #DE3637;
+}
+.e {
+  background-color: #F54B31;
+}
+.f{
+  background-color: #FE7429;
+}
